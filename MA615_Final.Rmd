@@ -1,0 +1,100 @@
+---
+title: "MA615 Final Report"
+author: "Jing Xu"
+date: "2022-12-16"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+pacman::p_load("dplyr","ggplot2","fmsb","RColorBrewer","scales","tidyverse")
+
+```
+
+
+# Data Selection
+
+My data is a chosen week-period MBTA data for each month from Novemeber 2021 to October 2022.
+
+# EDA
+
+## Calendar
+```{r, include=FALSE}
+df1<- read.csv("./calendar_attributes/1.txt")
+df2<- read.csv("./calendar_attributes/2.txt")
+df3<- read.csv("./calendar_attributes/3.txt")
+df4<- read.csv("./calendar_attributes/4.txt")
+df5<- read.csv("./calendar_attributes/5.txt")
+df6<- read.csv("./calendar_attributes/6.txt")
+df7<- read.csv("./calendar_attributes/7.txt")
+df8<- read.csv("./calendar_attributes/8.txt")
+df9<- read.csv("./calendar_attributes/9.txt")
+df10<- read.csv("./calendar_attributes/10.txt")
+df11<- read.csv("./calendar_attributes/11.txt")
+df12<- read.csv("./calendar_attributes/12.txt")
+
+
+calendar <- rbind(df1,df2,df3,df4,df5,df6,df7,df8,df9,df10,df11,df12)
+```
+
+```{r,echo=FALSE,fig.cap='Typicality'}
+
+
+ggplot(calendar)+
+  geom_histogram(mapping=aes(service_schedule_typicality),bins = 30)
+
+
+  
+```
+This Graph gives a general view of the distribution of the schedul type.
+
+
+## Season
+```{r,echo=FALSE,fig.cap='Season of each Typicality'}
+
+
+for(i in 1:5){
+type<-calendar%>%filter(service_schedule_typicality==i)
+t<-count(type,rating_description)
+barplot(height = t$n,names=t$rating_description,main = paste("type ",i),col=rainbow(5))
+}
+```
+These graph 
+
+
+## Route Patterns
+```{r, include=FALSE}
+df1<- read.csv("./route_patterns/1.txt")
+df2<- read.csv("./route_patterns/2.txt")
+df3<- read.csv("./route_patterns/3.txt")
+df4<- read.csv("./route_patterns/4.txt")
+df5<- read.csv("./route_patterns/5.txt")
+df6<- read.csv("./route_patterns/6.txt")
+df7<- read.csv("./route_patterns/7.txt")
+df8<- read.csv("./route_patterns/8.txt")
+df9<- read.csv("./route_patterns/9.txt")
+df10<- read.csv("./route_patterns/10.txt")
+df11<- read.csv("./route_patterns/11.txt")
+df12<- read.csv("./route_patterns/12.txt")
+
+
+route_patterns <- rbind(df1,df2,df3,df4,df5,df6,df7,df8,df9,df10,df11,df12)
+```
+
+
+
+```{r,echo=FALSE,fig.cap='Train Typicality'}
+#unique(route$route_id)
+route_train <- route_patterns %>% filter(
+  route_id == 'Red'|route_id == 'Orange'|route_id == 'Blue'|route_id == 'Green-B'|route_id == 'Green-C'|route_id == 'Green-D'|route_id == 'Green-E'
+)
+selection <- c('Red','Orange','Blue',"Green-B",'Green-C','Green-D','Green-E')
+for(i in 1:7){
+route<-route_train%>%filter(route_id==selection[i])
+r<-count(route,route_pattern_typicality)
+barplot(height = r$n,names=r$route_pattern_typicality,main = paste("Line ",selection[i]),col=rainbow(3))
+}
+
+
+```
+This figure shows that how are those common lines different in their patterns. 

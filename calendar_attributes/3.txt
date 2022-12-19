@@ -1,0 +1,68 @@
+service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
+BUS12022-hba12ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20211219,20220312,Winter
+BUS12022-hbb12ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20211219,20220312,Winter
+BUS12022-hbc12ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20211219,20220312,Winter
+BUS12022-hbf12ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20211219,20220312,Winter
+BUS12022-hbg12ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20211219,20220312,Winter
+BUS12022-hbl12ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20211219,20220312,Winter
+BUS12022-hbq12ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20211219,20220312,Winter
+BUS12022-hbs12NS1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20211219,20220312,Winter
+BUS12022-hbt12ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20211219,20220312,Winter
+BUS12022-htn12ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20211219,20220312,Winter
+Boat-F1-Wdy-Fall-21,Weekday schedule,Weekday,Weekday,1,20211012,,Fall
+Boat-F4-Sa-Fall-21,Saturday schedule,Saturday,Saturday,1,20211012,,Fall
+Boat-F4-Su-Fall-21,Sunday schedule,Sunday,Sunday,1,20211012,,Fall
+Boat-F4-Wdy-Fall-21,Weekday schedule,Weekday,Weekday,1,20211012,,Fall
+FALL 2021-N-Sa-5-LtnWct,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20211011,,Fall
+FALL 2021-N-Sa-5-S6d,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20211011,,Fall
+FALL 2021-N-Sa-5-S72,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20211011,,Fall
+FALL 2021-N-Sa-5-S9d378dcf-MRRct,Saturday schedule (modified service),Saturday (modified service),Saturday,1,20211011,,Fall
+FALL 2021-N-Su-5-LtnWct,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20211011,,Fall
+FALL 2021-N-Su-5-S6d,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20211011,,Fall
+FALL 2021-N-Su-5-S72,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20211011,,Fall
+FALL 2021-N-Su-5-S9d378dcf-MRRct,Sunday schedule (modified service),Sunday (modified service),Sunday,1,20211011,,Fall
+FALL 2021-N-Wdy-17,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
+FALL 2021-N-Wdy-5,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
+FALL 2021-N-Wdy-5-LtnWct,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
+FALL 2021-N-Wdy-5-S6d,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
+FALL 2021-N-Wdy-5-S72,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
+FALL 2021-N-Wdy-5-S9d378dcf-MRRct,Weekday schedule (modified service),Weekday (modified service),Weekday,1,20211011,,Fall
+FALL 2021-S-Sa-1,Saturday schedule,Saturday,Saturday,1,20211011,,Fall
+FALL 2021-S-Sa-1-S0f,Saturday schedule,Saturday,Saturday,1,20211011,,Fall
+FALL 2021-S-Sa-1-S8f,Saturday schedule,Saturday,Saturday,1,20211011,,Fall
+FALL 2021-S-Sa-1-Sb4,Saturday schedule,Saturday,Saturday,1,20211011,,Fall
+FALL 2021-S-Sa-1-Sb6,Saturday schedule,Saturday,Saturday,1,20211011,,Fall
+FALL 2021-S-Sa-1-Sc0,Saturday schedule,Saturday,Saturday,1,20211011,,Fall
+FALL 2021-S-Su-1,Sunday schedule,Sunday,Sunday,1,20211011,,Fall
+FALL 2021-S-Su-1-S0f,Sunday schedule,Sunday,Sunday,1,20211011,,Fall
+FALL 2021-S-Su-1-S8f,Sunday schedule,Sunday,Sunday,1,20211011,,Fall
+FALL 2021-S-Su-1-Sb4,Sunday schedule,Sunday,Sunday,1,20211011,,Fall
+FALL 2021-S-Su-1-Sb6,Sunday schedule,Sunday,Sunday,1,20211011,,Fall
+FALL 2021-S-Su-1-Sc0,Sunday schedule,Sunday,Sunday,1,20211011,,Fall
+FALL 2021-S-Wdy-1,Weekday schedule,Weekday,Weekday,1,20211011,,Fall
+FALL 2021-S-Wdy-1-S0f,Weekday schedule,Weekday,Weekday,1,20211011,,Fall
+FALL 2021-S-Wdy-1-S8f,Weekday schedule,Weekday,Weekday,1,20211011,,Fall
+FALL 2021-S-Wdy-1-Sb4,Weekday schedule,Weekday,Weekday,1,20211011,,Fall
+FALL 2021-S-Wdy-1-Sb6,Weekday schedule,Weekday,Weekday,1,20211011,,Fall
+FALL 2021-S-Wdy-1-Sc0,Weekday schedule,Weekday,Weekday,1,20211011,,Fall
+FALL 2021-S-Wdy-17,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
+LRV12022-hlb12011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20211219,20220312,Winter
+LRV12022-hlb12017-Su-01-NGLX,Sunday schedule,Sunday,Sunday,1,20211219,20220312,Winter
+LRV12022-hlb12017-Su-01-NwnHgsRvdNGLX,Sunday schedule,Sunday,Sunday,4,20211219,20220312,Winter
+LRV12022-hlb21016-Sa-01-NGLX,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
+LRV12022-hlb21016-Sa-01-NwnHgsRvdNGLX,Saturday schedule,Saturday,Saturday,4,20211219,20220312,Winter
+LRV12022-hlm12011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20211219,20220312,Winter
+MartinLutherKingDay-PresidentsDay,Holiday (Saturday schedule),Holiday,Saturday,3,20211219,20220312,Winter
+PRIV12022-hpa12011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20211219,20220312,Winter
+PRIV12022-hpa12016-Sa-01,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
+PRIV12022-hpj12011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20211219,20220312,Winter
+PRIV12022-hpj12016-Sa-01,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
+PRIV12022-hpl12011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20211219,20220312,Winter
+PRIV12022-hpl12016-Sa-01,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
+PRIV12022-hpp12ns1-Wdy-01,Weekday schedule (no school),Weekday (no school),Weekday,1,20211219,20220312,Winter
+RTL12022-hmb12011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20211219,20220312,Winter
+RTL12022-hmo12011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20211219,20220312,Winter
+RTL12022-hms12011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20211219,20220312,Winter
+WinterSaturday,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
+WinterSunday,Sunday schedule,Sunday,Sunday,1,20211219,20220312,Winter
+WinterWeekday,Weekday schedule,Weekday,Weekday,1,20211219,20220312,Winter

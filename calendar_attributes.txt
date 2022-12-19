@@ -1,0 +1,95 @@
+service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
+BUS421-hbs41sf1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20210829,20211218,Fall
+BUS421-hbs41sn1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20210829,20211218,Fall
+BUS421-hbs41sp1-Wdy-02,Weekday schedule,Weekday,Weekday,1,20210829,20211218,Fall
+BUS421-hbs41sp6-Sa-02,Saturday schedule,Saturday,Saturday,1,20210829,20211218,Fall
+BUS421-hbs41sp7-Su-02,Sunday schedule,Sunday,Sunday,1,20210829,20211218,Fall
+BUS421-hbs41sw1-Wdy-02,Weekday schedule,Weekday,Weekday,1,20210829,20211218,Fall
+BUS421-hbs41sw6-Sa-02,Saturday schedule,Saturday,Saturday,1,20210829,20211218,Fall
+BUS421-hbs41sw7-Su-02,Sunday schedule,Sunday,Sunday,1,20210829,20211218,Fall
+Boat-F1-Wdy-Fll-21,Weekday schedule,Weekday,Weekday,1,20211012,,Fall
+Boat-F4-Sa-Fll-21,Saturday schedule,Saturday,Saturday,1,20211012,,Fall
+Boat-F4-Su-Fll-21,Sunday schedule,Sunday,Sunday,1,20211012,,Fall
+Boat-F4-Wdy-Fll-21,Weekday schedule,Weekday,Weekday,1,20211012,,Fall
+FLL 21-N-Sa-5-LtnWct,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20211011,,Fall
+FLL 21-N-Sa-5-S6561ad1d-HvlBllMlnCnr,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20211011,,Fall
+FLL 21-N-Sa-5-S6d,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20211011,,Fall
+FLL 21-N-Sa-5-S72,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20211011,,Fall
+FLL 21-N-Sa-5-S9d378dcf-LnnNrhStnMRRct,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20211011,,Fall
+FLL 21-N-Sa-5-S9d378dcf-MRRct,Saturday schedule (modified service),Saturday (modified service),Saturday,1,20211011,,Fall
+FLL 21-N-Sa-8,Saturday schedule (modified service),Saturday (modified service),Saturday,1,20211011,,Fall
+FLL 21-N-Su-5-LtnWct,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20211011,,Fall
+FLL 21-N-Su-5-S6561ad1d-HvlBllMlnCnr,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20211011,,Fall
+FLL 21-N-Su-5-S6d,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20211011,,Fall
+FLL 21-N-Su-5-S72,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20211011,,Fall
+FLL 21-N-Su-5-S9d378dcf-LnnNrhStnMRRct,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20211011,,Fall
+FLL 21-N-Su-5-S9d378dcf-MRRct,Sunday schedule (modified service),Sunday (modified service),Sunday,1,20211011,,Fall
+FLL 21-N-Su-8,Sunday schedule (modified service),Sunday (modified service),Sunday,1,20211011,,Fall
+FLL 21-N-Wdy-5,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
+FLL 21-N-Wdy-5-LtnWct,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
+FLL 21-N-Wdy-5-S6d,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
+FLL 21-N-Wdy-5-S72,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
+FLL 21-N-Wdy-5-S9d378dcf-MRRct,Weekday schedule (modified service),Weekday (modified service),Weekday,1,20211011,,Fall
+FLL 21-N-Wdy-5-a6a725d7,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
+FLL 21-N-Wdy-5-bd5f405b,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
+FLL 21-S-Sa-1,Saturday schedule,Saturday,Saturday,1,20211011,,Fall
+FLL 21-S-Sa-1-S0f,Saturday schedule,Saturday,Saturday,1,20211011,,Fall
+FLL 21-S-Sa-1-S8f,Saturday schedule,Saturday,Saturday,1,20211011,,Fall
+FLL 21-S-Sa-1-Sb4,Saturday schedule,Saturday,Saturday,1,20211011,,Fall
+FLL 21-S-Sa-1-Sb6,Saturday schedule,Saturday,Saturday,1,20211011,,Fall
+FLL 21-S-Sa-1-Sc0,Saturday schedule,Saturday,Saturday,1,20211011,,Fall
+FLL 21-S-Su-1,Sunday schedule,Sunday,Sunday,1,20211011,,Fall
+FLL 21-S-Su-1-S0f,Sunday schedule,Sunday,Sunday,1,20211011,,Fall
+FLL 21-S-Su-1-S8f,Sunday schedule,Sunday,Sunday,1,20211011,,Fall
+FLL 21-S-Su-1-Sb4,Sunday schedule,Sunday,Sunday,1,20211011,,Fall
+FLL 21-S-Su-1-Sb6,Sunday schedule,Sunday,Sunday,1,20211011,,Fall
+FLL 21-S-Su-1-Sc0,Sunday schedule,Sunday,Sunday,1,20211011,,Fall
+FLL 21-S-Su-75,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20211011,,Fall
+FLL 21-S-Wdy-1,Weekday schedule,Weekday,Weekday,1,20211011,,Fall
+FLL 21-S-Wdy-1-S0f,Weekday schedule,Weekday,Weekday,1,20211011,,Fall
+FLL 21-S-Wdy-1-S8f,Weekday schedule,Weekday,Weekday,1,20211011,,Fall
+FLL 21-S-Wdy-1-Sb4,Weekday schedule,Weekday,Weekday,1,20211011,,Fall
+FLL 21-S-Wdy-1-Sb6,Weekday schedule,Weekday,Weekday,1,20211011,,Fall
+FLL 21-S-Wdy-1-Sc0,Weekday schedule,Weekday,Weekday,1,20211011,,Fall
+FallSaturday,Saturday schedule,Saturday,Saturday,1,20210829,20211218,Fall
+FallSunday,Sunday schedule,Sunday,Sunday,1,20210829,20211218,Fall
+FallWeekday,Weekday schedule,Weekday,Weekday,1,20210829,20211218,Fall
+LRV421-hlb41011-Wdy-01-BKrWsnStt,Weekday schedule,Weekday,Weekday,4,20210829,20211218,Fall
+LRV421-hlb41011-Wdy-01-c0bd427b,Weekday schedule,Weekday,Weekday,4,20210829,20211218,Fall
+LRV421-hlb41016-Sa-01,Saturday schedule,Saturday,Saturday,4,20210829,20211218,Fall
+LRV421-hlb41gx1-Wdy-01-01d6d66b,Weekday schedule,Weekday,Weekday,4,20210829,20211218,Fall
+LRV421-hlb41gx1-Wdy-01-909f02c0,Weekday schedule,Weekday,Weekday,4,20210829,20211218,Fall
+LRV421-hlb41gx1-Wdy-01-BKHBbkKnrGLNGLX,Weekday schedule,Weekday,Weekday,4,20210829,20211218,Fall
+LRV421-hlb41gx1-Wdy-01-BKHFnwRsrGLNGLX,Weekday schedule,Weekday,Weekday,4,20210829,20211218,Fall
+LRV421-hlb41gx1-Wdy-01-BKNGLX,Weekday schedule,Weekday,Weekday,4,20210829,20211218,Fall
+LRV421-hlb41gx1-Wdy-01-BKrWsnSttNGLX,Weekday schedule,Weekday,Weekday,4,20210829,20211218,Fall
+LRV421-hlb41gx6-Sa-01-2cfb9b6b,Saturday schedule,Saturday,Saturday,4,20210829,20211218,Fall
+LRV421-hlb41gx6-Sa-01-BKNGLX,Saturday schedule,Saturday,Saturday,4,20210829,20211218,Fall
+LRV421-hlb41gx6-Sa-01-e31a6b6c,Saturday schedule,Saturday,Saturday,4,20210829,20211218,Fall
+LRV421-hlb41gx7-Su-01-2cfb9b6b,Sunday schedule,Sunday,Sunday,4,20210829,20211218,Fall
+LRV421-hlb41gx7-Su-01-BKNGLX,Sunday schedule,Sunday,Sunday,4,20210829,20211218,Fall
+LRV421-hlb41gx7-Su-01-e31a6b6c,Sunday schedule,Sunday,Sunday,4,20210829,20211218,Fall
+LRV421-hlm41011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20210829,20211218,Fall
+LRV421-hlm41016-Sa-01,Saturday schedule,Saturday,Saturday,1,20210829,20211218,Fall
+LRV421-hlm41gx1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20210829,20211218,Fall
+LRV421-hlm41gx6-Sa-01,Saturday schedule,Saturday,Saturday,1,20210829,20211218,Fall
+PRIV421-hpa41011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20210829,20211218,Fall
+PRIV421-hpj41011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20210829,20211218,Fall
+PRIV421-hpj41017-Su-01,Sunday schedule,Sunday,Sunday,1,20210829,20211218,Fall
+PRIV421-hpl41011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20210829,20211218,Fall
+PRIV421-hpl41017-Su-01,Sunday schedule,Sunday,Sunday,1,20210829,20211218,Fall
+RTL421-hmb41011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20210829,20211218,Fall
+RTL421-hmo41011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20210829,20211218,Fall
+RTL421-hmo41016-Sa-01,Saturday schedule,Saturday,Saturday,1,20210829,20211218,Fall
+RTL421-hmo41016-Sa-01-CCWllShtTrn,Saturday schedule,Saturday,Saturday,4,20210829,20211218,Fall
+RTL421-hmo41017-Su-01,Sunday schedule,Sunday,Sunday,1,20210829,20211218,Fall
+RTL421-hmo41017-Su-01-CCWllShtTrn,Sunday schedule,Sunday,Sunday,4,20210829,20211218,Fall
+RTL421-hms41011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20210829,20211218,Fall
+RTL421-hms41016-Sa-01,Saturday schedule,Saturday,Saturday,1,20210829,20211218,Fall
+RTL421-hms41016-Sa-01-AlfHrd,Saturday schedule,Saturday,Saturday,4,20210829,20211218,Fall
+RTL421-hms41016-Sa-01-BrwJFK,Saturday schedule,Saturday,Saturday,4,20210829,20211218,Fall
+RTL421-hms41017-Su-01,Sunday schedule,Sunday,Sunday,1,20210829,20211218,Fall
+RTL421-hms41017-Su-01-AlfHrd,Sunday schedule,Sunday,Sunday,4,20210829,20211218,Fall
+RTL421-hms41017-Su-01-BrwJFK,Sunday schedule,Sunday,Sunday,4,20210829,20211218,Fall
+ThanksgivingDay,Holiday (Sunday schedule),Holiday,Sunday,3,20210829,20211218,Fall
+VeteransDay-DayafterThanksgivingDay,Weekday schedule (no school),Weekday (no school),Weekday,1,20210829,20211218,Fall
